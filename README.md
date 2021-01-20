@@ -1,0 +1,2 @@
+# ChoreoAssist
+"ChoreoAssist" was created during the course "Designing Intelligence in Interaction" during my second year of Masters in Industrial Design at the TU/e.      Intelligent systems are becoming increasingly important in the area of sports and can support athletes in all kinds of disciplines. ChoreoAssist is developed to support dance teachers and choreographers in their work. To prevent them from being distracted when developing their dances, the software helps them document their progress.

@@ -1,0 +1,12 @@
+Linear-Kernel SVM
+Feature #:5
+C:100.0
+Confusion Matrix:
+	[0]	[1]	[2]	Total	
+[0]	45	0	0	45	
+[1]	0	40	0	40	
+[2]	0	1	43	44	
+Total	45	41	43	
+correct/tested = 128/129
+overall accuracy = 99.2248062015504 %
+time elapsed: 0.515 (s)
